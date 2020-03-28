@@ -1,3 +1,1 @@
-# Guilherme Lambais' website
-
-Guilherme Lambais projects
+This is my professional website.

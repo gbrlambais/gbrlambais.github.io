@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-## Guilherme Lambais
+## Ultra - Super fast Jekyll theme 
 
-ipson
+Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
 
 ### Key features
 
