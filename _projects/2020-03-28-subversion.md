@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "jud: JUD"
+title: [a link](https://github.com/gbrlambais)
 description: for soe
 summary: this is a summary
 category: political economy
