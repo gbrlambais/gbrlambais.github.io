@@ -20,8 +20,8 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 
 Who ensures free and fair elections? Judicial Bias in Brazilian Electoral Courts. (with Moya Chin and Henrik Sigstad).
 
-Geographic cross-sectional fiscal multipliers over the business cycle. (with Ursula Mello).
-
 The long-run effects of the Underground Railroad. (with Felipe Valencia).
+
+Geographic cross-sectional fiscal multipliers over the business cycle. (with Ursula Mello).
 
 Market-wide Disclosure of Teachers’ Quality and the Labor Markets for Teachers. (with Diana Moreira and Raissa Fabregas).
