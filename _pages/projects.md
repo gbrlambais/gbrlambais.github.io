@@ -16,6 +16,13 @@ I show that ethnic territories connected to slave resistance, called quilombos, 
 
 This paper analyzes identiﬁcation issues of a behavorial New Keynesian model and estimates it using likelihood-based and limited-information methods with identiﬁcation-robust conﬁdence sets. The model presents some of the same diﬃculties that exist in simple benchmark DSGE models, but the analytical solution is able to indicate in what conditions the cognitive discounting parameter (attention to the future) can be identiﬁed and the robust estimation methods is able to conﬁrm its importance for explaining the proposed behavioral model.
 
+<button class="collapsible" id="yaml">Click here for the code.</button>
+
+<div class="content" id="yamldata" markdown="1">
+  CONTENT
+</div>
+
+
 ##### Work in progress
 
 Who ensures free and fair elections? Judicial Bias in Brazilian Electoral Courts. (with Moya Chin and Henrik Sigstad).
