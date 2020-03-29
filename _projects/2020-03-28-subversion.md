@@ -2,7 +2,7 @@
 layout: project
 title: "Judicial subversion: The effects of political power on court outcomes"
 description: judicial subversion political power regression discontinuity design
-summary: With Henrik. https://github.com/gbrlambais. [link](https://github.com/gbrlambais)
+summary: With Henrik. https://github.com/gbrlambais. [Link to a page]({{ site.baseurl }}{% link https://github.com/gbrlambais %})
 category: political economy
 ---
 
