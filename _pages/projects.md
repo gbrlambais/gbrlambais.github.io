@@ -37,3 +37,7 @@ The long-run effects of the Underground Railroad. (with Felipe Valencia).
 Geographic cross-sectional fiscal multipliers over the business cycle. (with Ursula Mello).
 
 Market-wide Disclosure of Teachers’ Quality and the Labor Markets for Teachers. (with Diana Moreira and Raissa Fabregas).
+
+##### Book chapters
+
+[Acesso à terra, escolha ocupacional e o diferencial de produtividade agrícola entre pequenos produtores](http://repositorio.ipea.gov.br/bitstream/11058/9242/1/Acesso%20à%20terra.pdf). 2016. In: J.E.R. Vieira Filho, J. E. R. and J.G. Gasques, ed., [Agricultura, transformação produtiva e sustentabilidade](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva.pdf). Brasília: IPEA.
