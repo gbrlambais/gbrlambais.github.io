@@ -19,7 +19,7 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 <button class="collapsible" id="yaml">Click here for the code.</button>
 
 <div class="content" id="yamldata" markdown="1">
-  CONTENT
+  CONTENT CONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENT 
 </div>
 
 
