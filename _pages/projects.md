@@ -30,7 +30,9 @@ title: Projects
 
 ##### Work in progress
 
-Who ensures free and fair elections? Judicial Bias in Brazilian Electoral Courts. (with Moya Chin and Henrik Sigstad).
+Geography, slavery, and income in Brazilian municipalities in the 1870s: a spatial equilibrium approach. (with Eustáquio Reis).
+
+Who ensures free and fair elections? Judicial bias in Brazilian electoral courts. (with Moya Chin and Henrik Sigstad).
 
 The long-run effects of the Underground Railroad. (with Felipe Valencia).
 
