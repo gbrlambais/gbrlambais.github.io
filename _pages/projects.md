@@ -40,4 +40,5 @@ Market-wide Disclosure of Teachers’ Quality and the Labor Markets for Teachers
 
 ##### Book chapters
 
-[Acesso à terra, escolha ocupacional e o diferencial de produtividade agrícola entre pequenos produtores](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva_cap_06.pdf).
+[Acesso à terra, escolha ocupacional e o diferencial de produtividade agrícola entre pequenos produtores](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva_cap_06.pdf). 2016.
+In: J.E.R. Vieira Filho, J. E. R. and J.G. Gasques, ed., [Agricultura, transformação produtiva e sustentabilidade](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva.pdf). Brasília: IPEA.
