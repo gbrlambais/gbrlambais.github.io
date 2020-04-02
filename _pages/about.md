@@ -9,4 +9,5 @@ I have a doctoral degree in economics from the University of Brasília, with a o
 
 My research interests are related to political economy, economic history, and macroeconomics.
 
-![](pic.JPG =350x466)
+
+<img src="pic.JPG" width="350" height="466">
