@@ -4,7 +4,7 @@ title: Projects
 ---
 
 
-#### [Judicial subversion: The effects of political power on court outcomes](https://gbrlambais.github.io/judicial_subervsion.pdf). (with Henrik Sigstad). [Latest version: March 2020]
+#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subervsion.pdf). (with Henrik Sigstad). [Latest version: March 2020]
 
 <button class="collapsible" id="subversion">Abstract</button>
 
@@ -30,7 +30,7 @@ title: Projects
 
 ##### Work in progress
 
-Geography, slavery, and income in Brazilian municipalities in the 1870s: a spatial equilibrium approach. (with Eustáquio Reis).
+Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis).
 
 Who ensures free and fair elections? Judicial bias in Brazilian electoral courts. (with Moya Chin and Henrik Sigstad).
 
