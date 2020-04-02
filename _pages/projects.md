@@ -4,7 +4,7 @@ title: Projects
 ---
 
 
-#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subervsion.pdf). (with Henrik Sigstad). [Latest version: March 2020]
+#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subervsion.pdf). (with Henrik Sigstad). [Latest version: April 2020]
 
 <button class="collapsible" id="subversion">Abstract</button>
 
