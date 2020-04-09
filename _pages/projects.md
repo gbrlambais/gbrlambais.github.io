@@ -20,7 +20,7 @@ title: Projects
  I show that ethnic territories connected to slave resistance, called quilombos, have a robust positive relationship with local economic development in Brazil. To understand how quilombos can affect economic activity in the long run, I propose a new mechanism where initial religious beliefs and African iron-working and other high-valued skills are perpetuated in the long run through cultural-religious intergenerational transmission. First, I divide the Brazilian territory in virtual municipality cells of approximately 11 x 11 kilometers, which makes possible an extensive use of ﬁxed eﬀects, and show that cells with more quilombos have more economic activity proxied by nightlights. Second, in order to analyze the mechanisms through which quilombos can aﬀect economic development and improve identiﬁcation I employ a randomization inference approach with alternative spatial configurations of counterfactual quilombos. I then show that proximity to quilombos is related to more high-skilled and metal-related occupations and a wide array of cultural-religious outcomes, such as higher cultural activities, community trust, and collective action.
 </div>
 
-#### [Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.0760). (with Joaquim Andrade and Pedro Cordeiro). [Latest version: December 2019]
+#### [Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.07601). (with Joaquim Andrade and Pedro Cordeiro). [Latest version: December 2019]
 
 <button class="collapsible" id="brnk">Abstract</button>
 
