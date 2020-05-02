@@ -2,7 +2,15 @@
 layout: page
 title: Projects
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165294303-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-165294303-1');
+</script>
 
 #### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with Henrik Sigstad). [Latest version: April 2020]
 
