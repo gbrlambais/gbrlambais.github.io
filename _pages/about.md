@@ -2,15 +2,6 @@
 layout: page
 title: About
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165294303-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-165294303-1');
-</script>
 
 I'm a postdoctoral fellow at University of Brasilia's Department of Economics and an economist at the Research Department of the Federal Labor Prosecution Office (MPT) in Brazil and [SmartLab](http://smartlabbr.org/), a joint initiative with the International Labor Organization.
 
