@@ -3,12 +3,21 @@ layout: page
 title: Projects
 ---
 
-#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with Henrik Sigstad). [Latest version: April 2020]
+#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with Henrik Sigstad). [Latest version: May 2020]
 
 <button class="collapsible" id="subversion">Abstract</button>
 
 <div class="content" id="subversiondata" markdown="1">
- We study corruption court cases involving candidates in Brazilian local elections. Even though judges and prosecutors are highly independent of local politics, we ﬁnd that close winners of the election have a substantially lower probability of being convicted than close losers. There are small differences in the quantity and quality of the lawyers representing electoral winners and losers, indicating the effect is likely due to politicians influencing law enforcers by non-legal means. We show evidence consistent with this influence working through party networks. Furthermore, even though local politicians have no formal power over judicial careers, we find that judges who rely more on the court administration for their careers are more influenced by the election, and that judges who convict mayors are more likely to be promoted by a seniority criterion than by a merit criterion. Finally, we show evidence suggesting that the lower conviction rate among politicians in power leads to an adverse selection of politicians in electoral offices.
+Are politicians in power treated more leniently in court? We show that
+candidates in Brazilian local elections charged with corruption are 43
+percent less likely to be convicted if they narrowly win the
+election. There are small differences in the lawyers representing
+winners and losers, the effect is larger for members of powerful
+parties, and judges convicting mayors are more likely to be promoted
+by seniority than by merit. This favoritism could lead to an adverse
+selection of politicians in elected offices: Politicians charged with
+corruption are more likely to run for election and to become the next
+mayor.
 </div>
 
 #### [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf). [Latest version: February 2020]
