@@ -52,3 +52,9 @@ Market-wide Disclosure of Teachers’ Quality and the Labor Markets for Teachers
 
 [Acesso à terra, escolha ocupacional e o diferencial de produtividade agrícola entre pequenos produtores](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva_cap_06.pdf). 2016.
 In: J.E.R. Vieira Filho and J.G. Gasques, ed., [Agricultura, transformação produtiva e sustentabilidade](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva.pdf). Brasília: IPEA.
+
+##### Policy work
+
+[Development without deforestation](https://ipcig.org/pub/eng/PiF29_10_years_Development_without_Deforestation.pdf). 2014. Policy in Focus. UNDP/International Policy Centre for Inclusive Growth. (Specialist Guest Editor with Carlos Castro). [Also in Portuguese](https://ipcig.org/pub/port/PiF29PT_10_anos_Desenvolvimento_sem_Desmatamento.pdf)
+
+[Innovation and Global to Local Energy Governance](https://link.springer.com/chapter/10.1057/9781137006127_12). 2013. In: Cadman T., ed., Climate Change and Global Policy Regimes. International Political Economy. London: Palgrave Macmillan.
