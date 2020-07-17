@@ -9,5 +9,5 @@ I have a doctoral degree in economics from the University of Brasilia, with a on
 
 My research interests are related to political economy, economic history, and macroeconomics.
 
-[CV](https://gbrlambais.github.io/CV.pdf) and [Lattes (Brazilian academic CV)](http://lattes.cnpq.br/3293287465749067).
+[CV](https://gbrlambais.github.io/CV.pdf) and [Lattes](http://lattes.cnpq.br/3293287465749067) (Brazilian academic CV).
 
