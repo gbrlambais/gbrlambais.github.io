@@ -40,19 +40,19 @@ mayor.
 
 ##### Work in progress
 
-Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented at the RIDGE Workshop on Economic History, Montevideo, 2019](http://www.ridge.uy/wp-content/uploads/2019/12/lambais__guilherme_geography_slavery_and_income_in_brazilian_municipalities_in_the_1870s.pdf)
+Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented at the RIDGE Workshop on Economic History, Montevideo, 2019.](http://www.ridge.uy/wp-content/uploads/2019/12/lambais__guilherme_geography_slavery_and_income_in_brazilian_municipalities_in_the_1870s.pdf)
 
-<button class="collapsible" id="brnk">Abstract</button>
+<button class="collapsible" id="spatial">Abstract</button>
 
-<div class="content" id="brnkdata" markdown="1">
+<div class="content" id="spatialdata" markdown="1">
 This paper applies a spatial equilibrium approach to understanding Brazil’s initial heterogeneity of prices, working population, and income across municipalities in the late XIX century. Understanding the spatial equilibrium in the past is important to generate new insights on the development path taken subsequently into the XX century that would show a very unequal spatial development and a high degree of economic backwardness in an otherwise natural resource abundant country with a high land-labor ratio. Preliminary results show that the initial spatial equilibrium when shifted by exogenous geographic variables, such as terrain ruggedness, climate and soil suitability for commodities and staple foods generates perverse results for productivity and welfare that sometimes gets amplified by the factor share of slavery in a municipality.
 </div>
 
-Who ensures free and fair elections? Judicial bias in Brazilian electoral courts. (with Moya Chin and Henrik Sigstad).
+Who ensures free and fair elections? Judicial bias in Brazilian electoral courts. (with Henrik Sigstad and Moya Chin).
 
 The short-run and long-run effects of the Underground Railroad. (with Felipe Valencia).
 
-From Colonial roads and mules to railroads in Brazil. (with Eustáquio Reis and Diego Firmino).
+From colonial roads and mules to railroads in Brazil. (with Eustáquio Reis and Diego Firmino).
 
 Geographic cross-sectional fiscal multipliers over the business cycle. (with Ursula Mello).
 
