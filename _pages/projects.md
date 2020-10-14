@@ -40,7 +40,7 @@ mayor.
 
 ##### Work in progress
 
-Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented at the RIDGE Workshop on Economic History, Montevideo, 2019.](http://www.ridge.uy/wp-content/uploads/2019/12/lambais__guilherme_geography_slavery_and_income_in_brazilian_municipalities_in_the_1870s.pdf)
+Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented](http://www.ridge.uy/wp-content/uploads/2019/12/lambais__guilherme_geography_slavery_and_income_in_brazilian_municipalities_in_the_1870s.pdf) at the RIDGE Workshop on Economic History, Montevideo, 2019.
 
 <button class="collapsible" id="spatial">Abstract</button>
 
@@ -56,14 +56,10 @@ From colonial roads and mules to railroads in Brazil. (with Eustáquio Reis and 
 
 Geographic cross-sectional fiscal multipliers over the business cycle. (with Ursula Mello).
 
-Market-wide Disclosure of Teachers’ Quality and the Labor Markets for Teachers. (with Diana Moreira and Raissa Fabregas).
-
 ##### Book chapters
 
 [Acesso à terra, escolha ocupacional e o diferencial de produtividade agrícola entre pequenos produtores](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva_cap_06.pdf). 2016.
 In: J.E.R. Vieira Filho and J.G. Gasques, ed., [Agricultura, transformação produtiva e sustentabilidade](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva.pdf). Brasília: IPEA.
-
-
 
 ##### Policy work
 
