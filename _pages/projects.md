@@ -5,21 +5,17 @@ title: Projects
 
 ##### Working papers
 
-#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with [Henrik Sigstad](https://hsigstad.github.io)). Submitted. [Latest version: May 2020]
+#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with [Henrik Sigstad](https://hsigstad.github.io)). Submitted. [Latest version: April 2021]
 
 <button class="collapsible" id="subversion">Abstract</button>
 
 <div class="content" id="subversiondata" markdown="1">
 Are politicians in power treated more leniently in court? We show that
-candidates in Brazilian local elections charged with corruption are 43
-percent less likely to be convicted if they narrowly win the
-election. There are small differences in the lawyers representing
-winners and losers, the effect is larger for members of powerful
-parties, and judges convicting mayors are more likely to be promoted
-by seniority than by merit. This favoritism could lead to an adverse
-selection of politicians in elected offices: Politicians charged with
-corruption are more likely to run for election and to become the next
-mayor.
+Brazilian mayoral candidates charged with corruption are 65 percent less likely
+to be convicted if they narrowly win the election. There are small differences
+in the lawyers representing winners and losers, and judges convicting mayors
+are more likely to be promoted by seniority than by merit. This favoritism
+could lead to an adverse selection of politicians in elected offices: Politicians charged with corruption are more likely to run for election and to become the next mayor.
 </div>
 
 #### [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf). [Latest version: February 2020]
@@ -48,13 +44,24 @@ Geography, slavery, and income in Brazilian municipalities in the 1870s: A spati
 This paper applies a spatial equilibrium approach to understanding Brazil’s initial heterogeneity of prices, working population, and income across municipalities in the late XIX century. Understanding the spatial equilibrium in the past is important to generate new insights on the development path taken subsequently into the XX century that would show a very unequal spatial development and a high degree of economic backwardness in an otherwise natural resource abundant country with a high land-labor ratio. Preliminary results show that the initial spatial equilibrium when shifted by exogenous geographic variables, such as terrain ruggedness, climate and soil suitability for commodities and staple foods generates perverse results for productivity and welfare that sometimes gets amplified by the factor share of slavery in a municipality.
 </div>
 
-Who ensures free and fair elections? Judicial bias in Brazilian electoral courts. (with Henrik Sigstad and Moya Chin).
+Judicialization of Politics: Evidence from Brazilian local elections. (with Moya Chin and Henrik Sigstad).
 
-The short-run and long-run effects of the Underground Railroad. (with Felipe Valencia).
+<button class="collapsible" id="judpol">Abstract</button>
+
+<div class="content" id="judpoldata" markdown="1">
+Are politicians in power treated more leniently in court? We show that
+Brazilian mayoral candidates charged with corruption are 65 percent less likely
+to be convicted if they narrowly win the election. There are small differences
+in the lawyers representing winners and losers, and judges convicting mayors
+are more likely to be promoted by seniority than by merit. This favoritism
+could lead to an adverse selection of politicians in elected offices: Politicians charged with corruption are more likely to run for election and to become the next mayor.
+</div>
+
+Gateway to Freedom: Origins and Consequences of the Underground Railroad. (with Felipe Valencia).
+
+The long-run impact of historical pathways on economic development: Evidence from the Brazilian Empire. (with Diogo Baerlocher, Diego Firmino, Eustáquio Reis, and Henrique Veras).
 
 From colonial roads and mules to railroads in Brazil. (with Eustáquio Reis and Diego Firmino).
-
-Geographic cross-sectional fiscal multipliers over the business cycle. (with Ursula Mello).
 
 ##### Book chapters
 
