@@ -49,12 +49,9 @@ Judicialization of Politics: Evidence from Brazilian local elections. (with Moya
 <button class="collapsible" id="judpol">Abstract</button>
 
 <div class="content" id="judpoldata" markdown="1">
-Are politicians in power treated more leniently in court? We show that
-Brazilian mayoral candidates charged with corruption are 65 percent less likely
-to be convicted if they narrowly win the election. There are small differences
-in the lawyers representing winners and losers, and judges convicting mayors
-are more likely to be promoted by seniority than by merit. This favoritism
-could lead to an adverse selection of politicians in elected offices: Politicians charged with corruption are more likely to run for election and to become the next mayor.
+Do electoral losers abuse lawsuits to delegitimize the winner? We show that
+winners in close Brazilian mayoral races are 70% more likely than losers are to
+face lawsuits regarding violations of electoral laws. This difference can be fully accounted for by frivolous lawsuits—cases ending in acquittal. The lawsuits are disproportionally filed by candidates with stronger financial backing, and seem to have deleterious effects on voter trust: Mayors facing frivolous lawsuits are reelected at a lower rate than mayors facing no lawsuits, and municipalities with frivolous lawsuits see a subsequent increase in voter abstention, blank votes, and votes for candidates with no prior political career.
 </div>
 
 Gateway to Freedom: Origins and Consequences of the Underground Railroad. (with Felipe Valencia).
