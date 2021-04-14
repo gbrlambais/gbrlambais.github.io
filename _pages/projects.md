@@ -56,6 +56,8 @@ face lawsuits regarding violations of electoral laws. This difference can be ful
 
 Gateway to Freedom: Origins and Consequences of the Underground Railroad. (with Felipe Valencia).
 
+The intergenerational impacts of the Benin returnees following the Bahia slave rebellion of 1835. (with Leonard Wantchekon).
+
 The long-run impact of historical pathways on economic development: Evidence from the Brazilian Empire. (with Diogo Baerlocher, Diego Firmino, Eustáquio Reis, and Henrique Veras).
 
 From colonial roads and mules to railroads in Brazil. (with Eustáquio Reis and Diego Firmino).
