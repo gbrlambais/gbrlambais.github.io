@@ -54,8 +54,6 @@ winners in close Brazilian mayoral races are 70% more likely than losers are to
 face lawsuits regarding violations of electoral laws. This difference can be fully accounted for by frivolous lawsuits—cases ending in acquittal. The lawsuits are disproportionally filed by candidates with stronger financial backing, and seem to have deleterious effects on voter trust: Mayors facing frivolous lawsuits are reelected at a lower rate than mayors facing no lawsuits, and municipalities with frivolous lawsuits see a subsequent increase in voter abstention, blank votes, and votes for candidates with no prior political career.
 </div>
 
-Gateway to Freedom: Origins and Consequences of the Underground Railroad. (with Felipe Valencia).
-
 Intergenerational impacts of the Benin returnees following the Bahia slave rebellion of 1835. (with Leonard Wantchekon).
 
 The long-run impact of historical pathways on economic development: Evidence from the Brazilian Empire. (with Diogo Baerlocher, Diego Firmino, Eustáquio Reis, and Henrique Veras).
