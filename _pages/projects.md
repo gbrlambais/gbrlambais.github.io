@@ -5,7 +5,7 @@ title: Projects
 
 ##### Working papers
 
-#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with [Henrik Sigstad](https://hsigstad.github.io)). Submitted. [Latest version: April 2021]
+#### [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with [Henrik Sigstad](https://hsigstad.github.io)). Submitted. [Latest version: October 2021]
 
 <button class="collapsible" id="subversion">Abstract</button>
 
@@ -69,4 +69,4 @@ In: J.E.R. Vieira Filho and J.G. Gasques, ed., [Agricultura, transformação pro
 
 [Development without Deforestation](https://ipcig.org/pub/eng/PiF29_10_years_Development_without_Deforestation.pdf). 2014. Policy in Focus. UNDP/International Policy Centre for Inclusive Growth. (Specialist Guest Editor with Carlos Castro). [Also in Portuguese.](https://ipcig.org/pub/port/PiF29PT_10_anos_Desenvolvimento_sem_Desmatamento.pdf)
 
-[Innovation and Global to Local Energy Governance](https://link.springer.com/chapter/10.1057/9781137006127_12). 2013. In: Cadman T., ed., Climate Change and Global Policy Regimes. International Political Economy. London: Palgrave Macmillan. (with Guilherme Gonçalves).
+[Innovation and Global to Local Energy Governance](https://link.springer.com/chapter/10.1057/9781137006127_12). 2013. In: T. Cadman, ed., Climate Change and Global Policy Regimes. International Political Economy. London: Palgrave Macmillan. (with Guilherme Gonçalves).
