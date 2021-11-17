@@ -3,6 +3,16 @@ layout: page
 title: Research
 ---
 
+#### Publications 
+
+[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf). **Comparative Education Review**, forthcoming. (with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home), Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).
+
+<button class="collapsible" id="africaeducation">Abstract</button>
+
+<div class="content" id="africaeducationdata" markdown="1">
+We review research on the history of education policy in colonial sub-Saharan Africa and among the African diaspora in the US and Brazil through a political economy lens. While the supply of education has been severely constricted in all of these cases, demand for education has been strong. Thus, even as authoritarian states have attempted to restrict educational supply as a means for social control, the strength of the demand---and the pedagogical, organizational, and political innovations that accompanied this demand---illustrate the power of education to empower marginalized communities.
+</div>
+
 #### Working papers
 
 [Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with [Henrik Sigstad](https://hsigstad.github.io)). Submitted. [Latest version: October 2021]
@@ -39,16 +49,6 @@ Judicialization of Politics: Evidence from Brazilian local elections. (with [Moy
 
 
 Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented](http://www.ridge.uy/wp-content/uploads/2019/12/lambais__guilherme_geography_slavery_and_income_in_brazilian_municipalities_in_the_1870s.pdf) at the RIDGE Workshop on Economic History, Montevideo, 2019.
-
-#### Publications 
-
-[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf). **Comparative Education Review**, forthcoming. (with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home), Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).
-
-<button class="collapsible" id="africaeducation">Abstract</button>
-
-<div class="content" id="africaeducationdata" markdown="1">
-We review research on the history of education policy in colonial sub-Saharan Africa and among the African diaspora in the US and Brazil through a political economy lens. While the supply of education has been severely constricted in all of these cases, demand for education has been strong. Thus, even as authoritarian states have attempted to restrict educational supply as a means for social control, the strength of the demand---and the pedagogical, organizational, and political innovations that accompanied this demand---illustrate the power of education to empower marginalized communities.
-</div>
 
 #### Book chapters
 
