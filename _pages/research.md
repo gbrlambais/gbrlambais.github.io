@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research
 ---
 
 ##### Working papers
@@ -10,12 +10,7 @@ title: Projects
 <button class="collapsible" id="subversion">Abstract</button>
 
 <div class="content" id="subversiondata" markdown="1">
-Are politicians in power treated more leniently in court? We show that
-Brazilian mayoral candidates charged with corruption are 65 percent less likely
-to be convicted if they narrowly win the election. There are small differences
-in the lawyers representing winners and losers, and judges convicting mayors
-are more likely to be promoted by seniority than by merit. This favoritism
-could lead to an adverse selection of politicians in elected offices: Politicians charged with corruption are more likely to run for election and to become the next mayor.
+Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with corruption are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability. The favoritism in judicial decisions could lead to an adverse selection of politicians in elected offices: Politicians charged with corruption are more likely to run for election and to become the next mayor.
 </div>
 
 #### [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf). [Latest version: February 2020]
@@ -36,29 +31,24 @@ could lead to an adverse selection of politicians in elected offices: Politician
 
 ##### Work in progress
 
+Historical Pathways and the Persistent Geography of Economic Activity. (with [Diogo Baerlocher](https://diogobaerlocher.github.io), [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva), Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io)).
+
+Intergenerational impacts of the Benin returnees following the Bahia slave rebellion of 1835. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).
+
+Judicialization of Politics: Evidence from Brazilian local elections. (with [Moya Chin](https://sites.google.com/view/moyachin/) and [Henrik Sigstad](https://hsigstad.github.io)).
+
+
 Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented](http://www.ridge.uy/wp-content/uploads/2019/12/lambais__guilherme_geography_slavery_and_income_in_brazilian_municipalities_in_the_1870s.pdf) at the RIDGE Workshop on Economic History, Montevideo, 2019.
 
-<button class="collapsible" id="spatial">Abstract</button>
+##### Publications 
 
-<div class="content" id="spatialdata" markdown="1">
-This paper applies a spatial equilibrium approach to understanding Brazil’s initial heterogeneity of prices, working population, and income across municipalities in the late XIX century. Understanding the spatial equilibrium in the past is important to generate new insights on the development path taken subsequently into the XX century that would show a very unequal spatial development and a high degree of economic backwardness in an otherwise natural resource abundant country with a high land-labor ratio. Preliminary results show that the initial spatial equilibrium when shifted by exogenous geographic variables, such as terrain ruggedness, climate and soil suitability for commodities and staple foods generates perverse results for productivity and welfare that sometimes gets amplified by the factor share of slavery in a municipality.
+[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf). **Comparative Education Review**, forthcoming. (with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home), Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).
+
+<button class="collapsible" id="africaeducation">Abstract</button>
+
+<div class="content" id="africaeducationdata" markdown="1">
+We review research on the history of education policy in colonial sub-Saharan Africa and among the African diaspora in the US and Brazil through a political economy lens. While the supply of education has been severely constricted in all of these cases, demand for education has been strong. Thus, even as authoritarian states have attempted to restrict educational supply as a means for social control, the strength of the demand---and the pedagogical, organizational, and political innovations that accompanied this demand---illustrate the power of education to empower marginalized communities.
 </div>
-
-Judicialization of Politics: Evidence from Brazilian local elections. (with Moya Chin and Henrik Sigstad).
-
-<button class="collapsible" id="judpol">Abstract</button>
-
-<div class="content" id="judpoldata" markdown="1">
-Do electoral losers abuse lawsuits to delegitimize the winner? We show that
-winners in close Brazilian mayoral races are 70% more likely than losers are to
-face lawsuits regarding violations of electoral laws. This difference can be fully accounted for by frivolous lawsuits—cases ending in acquittal. The lawsuits are disproportionally filed by candidates with stronger financial backing, and seem to have deleterious effects on voter trust: Mayors facing frivolous lawsuits are reelected at a lower rate than mayors facing no lawsuits, and municipalities with frivolous lawsuits see a subsequent increase in voter abstention, blank votes, and votes for candidates with no prior political career.
-</div>
-
-Intergenerational impacts of the Benin returnees following the Bahia slave rebellion of 1835. (with Leonard Wantchekon).
-
-The long-run impact of historical pathways on economic development: Evidence from the Brazilian Empire. (with Diogo Baerlocher, Diego Firmino, Eustáquio Reis, and Henrique Veras).
-
-From colonial roads and mules to railroads in Brazil. (with Eustáquio Reis and Diego Firmino).
 
 ##### Book chapters
 
