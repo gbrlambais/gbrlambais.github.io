@@ -5,7 +5,7 @@ title: Research
 
 #### Publications 
 
-[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf). **Comparative Education Review**, forthcoming. (with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home), Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).
+[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf). *Comparative Education Review*, forthcoming. (with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home), Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).
 
 <button class="collapsible" id="africaeducation">Abstract</button>
 
@@ -57,6 +57,6 @@ In: J.E.R. Vieira Filho and J.G. Gasques, ed., [Agricultura, transformação pro
 
 #### Policy work
 
-[Development without Deforestation](https://ipcig.org/pub/eng/PiF29_10_years_Development_without_Deforestation.pdf). 2014. Policy in Focus. UNDP/International Policy Centre for Inclusive Growth. (Specialist Guest Editor with Carlos Castro). [Also in Portuguese.](https://ipcig.org/pub/port/PiF29PT_10_anos_Desenvolvimento_sem_Desmatamento.pdf)
+[Development without Deforestation](https://ipcig.org/pub/eng/PiF29_10_years_Development_without_Deforestation.pdf). 2014. *Policy in Focus*. UNDP/International Policy Centre for Inclusive Growth. (Specialist Guest Editor with Carlos Castro). [Also in Portuguese.](https://ipcig.org/pub/port/PiF29PT_10_anos_Desenvolvimento_sem_Desmatamento.pdf)
 
-[Innovation and Global to Local Energy Governance](https://link.springer.com/chapter/10.1057/9781137006127_12). 2013. In: T. Cadman, ed., Climate Change and Global Policy Regimes. International Political Economy. London: Palgrave Macmillan. (with Guilherme Gonçalves).
+[Innovation and Global to Local Energy Governance](https://link.springer.com/chapter/10.1057/9781137006127_12). 2013. In: T. Cadman, ed., *Climate Change and Global Policy Regimes*. International Political Economy. London: Palgrave Macmillan. (with Guilherme Gonçalves).
