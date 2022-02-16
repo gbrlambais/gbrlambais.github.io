@@ -41,7 +41,7 @@ Are politicians in power treated more leniently in court? We show that Brazilian
 
 #### Work in progress
 
-Welfare and real wages in Salvador da Bahia (1650-1900). (with [Nuno Palma](https://sites.google.com/site/npgpalma)
+Welfare and real wages in Salvador da Bahia (1650-1900). (with [Nuno Palma](https://sites.google.com/site/npgpalma)).
 
 Historical Pathways and the Persistent Geography of Economic Activity. (with [Diogo Baerlocher](https://diogobaerlocher.github.io), [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva), Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io)).
 
