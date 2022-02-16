@@ -41,12 +41,13 @@ Are politicians in power treated more leniently in court? We show that Brazilian
 
 #### Work in progress
 
+Welfare and real wages in Salvador da Bahia (1650-1900). (with [Nuno Palma](https://sites.google.com/site/npgpalma)
+
 Historical Pathways and the Persistent Geography of Economic Activity. (with [Diogo Baerlocher](https://diogobaerlocher.github.io), [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva), Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io)).
 
 Intergenerational impacts of the Benin returnees following the Bahia slave rebellion of 1835. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).
 
 Judicialization of Politics: Evidence from Brazilian local elections. (with [Moya Chin](https://sites.google.com/view/moyachin/) and [Henrik Sigstad](https://hsigstad.github.io)).
-
 
 Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented](http://www.ridge.uy/wp-content/uploads/2019/12/lambais__guilherme_geography_slavery_and_income_in_brazilian_municipalities_in_the_1870s.pdf) at the RIDGE Workshop on Economic History, Montevideo, 2019.
 
