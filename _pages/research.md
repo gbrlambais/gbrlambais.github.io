@@ -15,12 +15,12 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with [Henrik Sigstad](https://hsigstad.github.io)). Submitted. [Latest version: October 2021]
+[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf). (with [Henrik Sigstad](https://hsigstad.github.io)). Submitted. [Latest version: February 2022]
 
 <button class="collapsible" id="subversion">Abstract</button>
 
 <div class="content" id="subversiondata" markdown="1">
-Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with corruption are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability. The favoritism in judicial decisions could lead to an adverse selection of politicians in elected offices: Politicians charged with corruption are more likely to run for election and to become the next mayor.
+Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with misconduct are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not completely insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability.
 </div>
 
 [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf). [Latest version: February 2020]
