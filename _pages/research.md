@@ -5,9 +5,7 @@ title: Research
 
 #### Publications 
 
-[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf). *Comparative Education Review*, forthcoming. (with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home), Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).
-
-<button class="collapsible" id="africaeducation">Abstract</button>
+<button class="collapsible" id="africaeducation">[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf). *Comparative Education Review*, forthcoming. (with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home), Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche)).</button>
 
 <div class="content" id="africaeducationdata" markdown="1">
 We review research on the history of education policy in colonial sub-Saharan Africa and among the African diaspora in the US and Brazil through a political economy lens. While the supply of education has been severely constricted in all of these cases, demand for education has been strong. Thus, even as authoritarian states have attempted to restrict educational supply as a means for social control, the strength of the demand---and the pedagogical, organizational, and political innovations that accompanied this demand---illustrate the power of education to empower marginalized communities.
