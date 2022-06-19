@@ -35,7 +35,7 @@ Are politicians in power treated more leniently in court? We show that Brazilian
 
 #### Work in progress
 
-Welfare and real wages in Bahia (1650-1900). (with [Nuno Palma](https://sites.google.com/site/npgpalma)).
+Welfare and real wages in Bahia, 1574-1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma)).
 
 Historical Pathways and the Persistent Geography of Economic Activity. (with [Diogo Baerlocher](https://diogobaerlocher.github.io), [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva), Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io)).
 
@@ -50,8 +50,3 @@ Geography, slavery, and income in Brazilian municipalities in the 1870s: A spati
 [Acesso à terra, escolha ocupacional e o diferencial de produtividade agrícola entre pequenos produtores](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva_cap_06.pdf). 2016.
 In: J.E.R. Vieira Filho and J.G. Gasques, ed., [Agricultura, transformação produtiva e sustentabilidade](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva.pdf). Brasília: IPEA.
 
-#### Policy work
-
-[Development without Deforestation](https://ipcig.org/pub/eng/PiF29_10_years_Development_without_Deforestation.pdf). 2014. *Policy in Focus*. UNDP/International Policy Centre for Inclusive Growth. (Specialist Guest Editor with Carlos Castro). [Also in Portuguese.](https://ipcig.org/pub/port/PiF29PT_10_anos_Desenvolvimento_sem_Desmatamento.pdf)
-
-[Innovation and Global to Local Energy Governance](https://link.springer.com/chapter/10.1057/9781137006127_12). 2013. In: T. Cadman, ed., *Climate Change and Global Policy Regimes*. International Political Economy. London: Palgrave Macmillan. (with Guilherme Gonçalves).
