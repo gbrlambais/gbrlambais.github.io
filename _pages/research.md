@@ -5,6 +5,12 @@ title: Research
 
 #### Publications 
 
+<button class="collapsible" id="subversion">[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf){:target="_blank"}. **Journal of Public Economics**, *forthcoming*. (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). </button>
+
+<div class="content" id="subversiondata" markdown="1">
+Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with misconduct are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not completely insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability.
+</div>
+
 <button class="collapsible" id="africaeducation">[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf){:target="_blank"}. **Comparative Education Review**, *forthcoming*. (with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home){:target="_blank"}, Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}).</button>
 
 <div class="content" id="africaeducationdata" markdown="1">
@@ -12,13 +18,6 @@ We review research on the history of education policy in colonial sub-Saharan Af
 </div>
 
 #### Working papers
-
-<button class="collapsible" id="subversion">[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://gbrlambais.github.io/judicial_subversion.pdf){:target="_blank"}. (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). **Journal of Public Economics**, *revise & resubmit*. [Latest version: July 2022]</button>
-
-<div class="content" id="subversiondata" markdown="1">
-Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with misconduct are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not completely insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability.
-</div>
-
 
 <button class="collapsible" id="slave">[Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"}. [Latest version: February 2020]</button>
 
