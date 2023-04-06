@@ -5,7 +5,7 @@ title: Research
 
 #### Publications 
 
-<button class="collapsible" id="subversion">[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). </button>
+[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). <button class="collapsible" id="subversion"> Abstract </button>
 
 <div class="content" id="subversiondata" markdown="1">
 Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with misconduct are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not completely insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability.
@@ -19,11 +19,7 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-<button class="collapsible" id="slave">[Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"}. [Latest version: February 2020]</button>
-
-<div class="content" id="slavedata" markdown="1">
- I show that ethnic territories connected to slave resistance, called quilombos, have a robust positive relationship with local economic development in Brazil. To understand how quilombos can affect economic activity in the long run, I propose a new mechanism where initial religious beliefs and African iron-working and other high-valued skills are perpetuated in the long run through cultural-religious intergenerational transmission. First, I divide the Brazilian territory in virtual municipality cells of approximately 11 x 11 kilometers, which makes possible an extensive use of ﬁxed eﬀects, and show that cells with more quilombos have more economic activity proxied by nightlights. Second, in order to analyze the mechanisms through which quilombos can aﬀect economic development and improve identiﬁcation I employ a randomization inference approach with alternative spatial configurations of counterfactual quilombos. I then show that proximity to quilombos is related to more high-skilled and metal-related occupations and a wide array of cultural-religious outcomes, such as higher cultural activities, community trust, and collective action.
-</div>
+Slave resistance, cultural transmission, and Brazil’s long-run economic development. [New version coming soon]
 
 <button class="collapsible" id="brnk">[Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.07601){:target="_blank"}. (with Joaquim Andrade and Pedro Cordeiro). [Latest version: December 2019]
 </button>
@@ -34,7 +30,7 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Work in progress
 
-Living Standards in Brazil: Bahia, 1572-1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
+Living Standards in Brazil: Bahia, 1572-1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [WP coming soon]
 
 Historical Pathways and the Persistent Geography of Economic Activity. (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}).
 
