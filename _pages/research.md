@@ -5,12 +5,11 @@ title: Research
 
 #### Publications 
 
-[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#subversiondata" aria-expanded="false" aria-controls="subversiondata"> Abstract </button>
+[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). 
+<button class="collapsible" id="subversion"> Abstract </button>
 
-<div class="collapse" id="subversiondata" markdown="1">
-    <div class="card card-body">
+<div class="content" id="subversiondata" markdown="1">
 Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with misconduct are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not completely insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability.
-    </div>
 </div>
 
 <button class="collapsible" id="africaeducation">[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf){:target="_blank"}. **Comparative Education Review**, *forthcoming*. (Invited Special Section on BLM, with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home){:target="_blank"}, Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}). [New accepted version]</button>
