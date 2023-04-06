@@ -5,9 +5,9 @@ title: Research
 
 #### Publications 
 
-[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). <button class="btn btn-primary" data-toggle="collapse" href="#subversiondata" role="button" aria-expanded="false" aria-controls="#subversiondata"> Abstract </button>
+[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). <a class="btn btn-primary" data-toggle="collapse" href="#subversiondata" role="button" aria-expanded="false" aria-controls="#subversiondata"> Abstract </a>
 
-<div class="content" id="subversiondata" markdown="1">
+<div class="colapse" id="subversiondata" markdown="1">
 Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with misconduct are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not completely insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability.
 </div>
 
