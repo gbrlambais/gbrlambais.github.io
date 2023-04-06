@@ -12,7 +12,7 @@ title: Research
 Are politicians in power treated more leniently in court? We show that Brazilian mayoral candidates charged with misconduct are 65 percent less likely to be convicted if they narrowly win the election. Politicians play no direct role in the judges’ careers, suggesting that formal independence does not completely insulate the judiciary from political influence. The effect is driven by districts with few judges and by judges with higher career instability.
 </div>
 
-<button class="collapsible" id="africaeducation">[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf){:target="_blank"}. **Comparative Education Review**, *forthcoming*. (Invited Special Section on BLM, with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home){:target="_blank"}, Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}). [New accepted version]</button>
+[Education for Control and Liberation in Africa and Among the Black Diaspora](https://gbrlambais.github.io/africa_education.pdf){:target="_blank"}. **Comparative Education Review**, *forthcoming*. (Invited Special Section on BLM, with [Dozie Okoye](https://sites.google.com/site/dozieaokoye/home){:target="_blank"}, Shourya Sen, and [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}). [New accepted version] <button class="collapsible" id="africaeducation"></button>
 
 <div class="content" id="africaeducationdata" markdown="1">
 We review research on the history of education policy in colonial sub-Saharan Africa and among the African diaspora in the US and Brazil through a political economy lens. While the supply of education has been severely constricted in all of these cases, demand for education has been strong. Thus, even as authoritarian states have attempted to restrict educational supply as a means for social control, the strength of the demand---and the pedagogical, organizational, and political innovations that accompanied this demand---illustrate the power of education to empower marginalized communities.
@@ -22,8 +22,7 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 Slave resistance, cultural transmission, and Brazil’s long-run economic development. [New version coming soon]
 
-<button class="collapsible" id="brnk">[Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.07601){:target="_blank"}. (with Joaquim Andrade and Pedro Cordeiro). [Latest version: December 2019]
-</button>
+[Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.07601){:target="_blank"}. (with Joaquim Andrade and Pedro Cordeiro). [Latest version: December 2019] <button class="collapsible" id="brnk"></button>
 
 <div class="content" id="brnkdata" markdown="1">
  This paper analyzes identiﬁcation issues of a behavorial New Keynesian model and estimates it using likelihood-based and limited-information methods with identiﬁcation-robust conﬁdence sets. The model presents some of the same diﬃculties that exist in simple benchmark DSGE models, but the analytical solution is able to indicate in what conditions the cognitive discounting parameter (attention to the future) can be identiﬁed and the robust estimation methods is able to conﬁrm its importance for explaining the proposed behavioral model.
