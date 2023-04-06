@@ -25,7 +25,7 @@
 }
 
 .collapsible:after {
-    content: "\02B9E"; /* \02795 Unicode character for "plus" sign (+) */
+    content: "\2B9E"; /* \02795 Unicode character for "plus" sign (+) */
     font-size: 10px;
     color: white;
     float: right;
@@ -33,7 +33,7 @@
 }
 
 .collapsible.active:after {
-    content: "\02B9F"; /* \2796 Unicode character for "minus" sign (-) */
+    content: "\2B9F"; /* \2796 Unicode character for "minus" sign (-) */
 }
 
 
