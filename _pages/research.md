@@ -40,7 +40,7 @@ Intergenerational impacts of the Benin returnees following the Bahia slave rebel
 
 Judicialization of Politics: Evidence from Brazilian local elections. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
 
-Geography, slavery, and income in Brazilian municipalities in the 1870s: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented](http://www.ridge.uy/wp-content/uploads/2019/12/lambais__guilherme_geography_slavery_and_income_in_brazilian_municipalities_in_the_1870s.pdf){:target="_blank"} at the RIDGE Workshop on Economic History, Montevideo, 2019.
+Geography, slavery, and income: A spatial equilibrium approach. (with Eustáquio Reis).
 
 #### Book chapters
 
