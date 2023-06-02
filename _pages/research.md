@@ -20,7 +20,7 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-Slave resistance, cultural transmission, and Brazil’s long-run economic development. [New version coming soon]
+[Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance.pdf){:target="_blank"}. [New version coming soon]
 
 [Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.07601){:target="_blank"}. (with Joaquim Andrade and Pedro Cordeiro). [Latest version: December 2019] <button class="collapsible" id="brnk"></button>
 
