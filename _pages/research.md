@@ -20,6 +20,12 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
+[Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"} (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). [Latest version: July 2023] <button class="collapsible" id="gold"></button>
+
+<div class="content" id="golddata" markdown="1">
+    We use the discovery of gold in Brazil as a historical quasi-experiment and show that gold roads are positively associated with population density and nightlight incidence in contemporary times. We then use official documents from the 19th century to build a nationwide transportation network that grew from the gold roads to show that the entire network also correlates with more population density today. Agglomeration spillovers are more likely to be the main mechanism driving the effect of historical pathways on long-run population density equilibrium, generating path dependence instead of historical persistence.
+</div>
+
 [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"}. [New version coming soon] <button class="collapsible" id="sr"></button>
 
 <div class="content" id="srdata" markdown="1">
@@ -35,8 +41,6 @@ We review research on the history of education policy in colonial sub-Saharan Af
 #### Work in progress
 
 Living Standards in Brazil: Bahia, 1574-1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [WP coming soon]
-
-Old But Gold. (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}).
 
 Judicial Connections. (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/){:target="_blank"}, [Breno Sampaio](https://sites.google.com/view/brenosampaio/){:target="_blank"}, [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}, and [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/home){:target="_blank"}).
 
