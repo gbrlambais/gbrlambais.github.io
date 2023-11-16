@@ -3,9 +3,17 @@ layout: page
 title: Research
 ---
 
+#### Job Market Paper
+
+African Slavery and the Reckoning of Brazil. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). <button class="collapsible" id="as"></button>
+
+<div class="content" id="asdata" markdown="1">
+More enslaved Africans were disembarked in Brazil than in any other country in the New World. Using new archival data (12,000 observations), we build long-run historical real wage data to analyze the consequences of the slave trade for the first time. We establish the first real wages and wage inequality series for more than three centuries (1574 to 1920) in Brazil and find that real wages and inequality were initially on the same level as in Europe, but as the slave trade increased, wages decreased and inequality increased. Real wages for unskilled workers became one of the lowest in the world and only recover with the end of the slave trade. We use slave trade prohibition shocks (1808, 1831, and 1850) to estimate the causal effect of ending slave imports on wages and inequality. The first prohibition led to an average increase of 24% in unskilled wages and a decrease of 25% in wage inequality, while later prohibitions led to even larger wage increases. Our results suggest that the slave trade affected long-run development through a labor market supply channel.
+</div>
+
 #### Publications 
 
-[Judicial Subversion: The Effects of Political Power on Court Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). 
+[Judicial subversion: The effects of political power on court outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). 
 <button class="collapsible" id="subversion"></button>
 
 <div class="content" id="subversiondata" markdown="1">
@@ -40,15 +48,16 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 
 #### Work in progress
 
-The Reckoning of Brazil (Slavery and Living Standards in Bahia, 1574-1920). (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [WP coming soon]
+The economic contribution of freed slave returnees: Evidence from the godfathering networks of the Agudas in 19th century Benin. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}).
 
-Judicial Connections. (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/){:target="_blank"}, [Breno Sampaio](https://sites.google.com/view/brenosampaio/){:target="_blank"}, [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}, and [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/home){:target="_blank"}).
+The legal consequences of government audits. (with Ricardo Prioste and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
 
-The economic contribution of freed slave returnees: Evidence from godfathering networks of the Agudas in 19th century Benin. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}).
 
 Judicialization of Politics: Evidence from Brazilian local elections. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
 
-Geography, slavery, and income: A spatial equilibrium approach. (with Eustáquio Reis).
+Judicial Connections. (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/){:target="_blank"}, [Breno Sampaio](https://sites.google.com/view/brenosampaio/){:target="_blank"}, [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}, and [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/home){:target="_blank"}).
+
+Geography, slavery, and income: A spatial equilibrium approach. (with Eustáquio Reis). [Version presented at the RIDGE Economic History Workshop, Montevideo 2019.](https://gbrlambais.github.io/income1870_ridge.pdf){:target="_blank"}
 
 #### Book chapters
 
