@@ -5,7 +5,7 @@ title: Research
 
 #### Job Market Paper
 
-[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [Latest version: 6 December 2023] <button class="collapsible" id="as"></button>
+[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [Latest version: 15 December 2023] <button class="collapsible" id="as"></button>
 
 <div class="content" id="asdata" markdown="1">
 More enslaved Africans were disembarked in Brazil than in any other country in the New World. Using new archival data (over 12,000 observations), we analyze the consequences of the slave trade. We establish the first real wages and inequality series for more than three centuries (1574 to 1920) in Brazil, and find that these were initially on a similar level to Europe, but as the slave trade increased, wages decreased and inequality increased. Real wages for unskilled workers became among the lowest in the world, and only recovered with the end of the slave trade. We use slave trade prohibition shocks (1808, 1831, and 1850) to estimate the causal effect of ending slave imports on wages and inequality. The first prohibition led to an average increase of 24% in unskilled wages and a decrease of 25% in wage inequality, while later prohibitions led to even larger wage increases. We propose a mechanism suggesting that the slave trade affected long-run development through a labor market supply channel.
