@@ -48,9 +48,9 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 
 #### Work in progress
 
-The economic contribution of freed slave returnees: Evidence from the godfathering networks of the Agudas in 19th century Benin. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}).
+*Les Agoudas*: Pre-colonial business networks and intergenerational mobility of liberated returnees. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}).
 
-The legal consequences of government audits. (with Ricardo Prioste and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
+Corruption and Impunity. (with Ricardo Prioste and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
 
 
 Judicialization of Politics: Evidence from Brazilian local elections. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
