@@ -66,7 +66,14 @@ Geography, slavery, and income: A spatial equilibrium approach. (with Eustáquio
 [Acesso à terra, escolha ocupacional e o diferencial de produtividade agrícola entre pequenos produtores](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva_cap_06.pdf){:target="_blank"}. 2016.
 In: J.E.R. Vieira Filho and J.G. Gasques, ed., [Agricultura, transformação produtiva e sustentabilidade](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/160725_agricultura_transformacao_produtiva.pdf){:target="_blank"}. Brasília: IPEA.
 
+
 #### Policy work
 
- [Development without Deforestation](https://ipcig.org/pub/eng/PiF29_10_years_Development_without_Deforestation.pdf){:target="_blank"}. 2014. *Policy in Focus*. UNDP/International Policy Centre for Inclusive Growth. (Specialist Guest Editor with Carlos Castro). [Also in Portuguese.](https://ipcig.org/pub/port/PiF29PT_10_anos_Desenvolvimento_sem_Desmatamento.pdf){:target="_blank"}
+ [Development without Deforestation](https://ipcig.org/pub/eng/PiF29_10_years_Development_without_Deforestation.pdf){:target="_blank"}. 2014. *Policy in Focus*. UNDP/International Policy Centre for Inclusive Growth. (Specialist Guest Editor with Carlos Castro). [Also in Portuguese](https://ipcig.org/pub/port/PiF29PT_10_anos_Desenvolvimento_sem_Desmatamento.pdf){:target="_blank"}.
+
+ [Structured demand and smallholder farmers in Brazil](http://www.ipc-undp.org/pub/IPCTechnicalPaper7.pdf){:target="_blank"}. 2013. Brasília: International Policy Centre for Inclusive Growth (IPC-IG) and WFP Centre of Excellence Against Hunger]. (with IPC-IG and WFP teams). [Also in Portuguese](https://ipcig.org/sites/default/files/pub/pt-br/PAAReportPT_Demanda_Estrutruada_e_a_Agricultura_Familiar_no_Brasil.pdf){:target="_blank"}.
+
+ [Innovation and Global to Local Energy Governance](https://link.springer.com/chapter/10.1057/9781137006127_12){:target="_blank"}. 2013. In: T. Cadman, ed., [Climate change and global policy regimes: towards institutional legitimacy](https://link.springer.com/book/10.1057/9781137006127){:target="_blank"}. International Political Economy. London: Palgrave Macmillan. (with Guilherme Gonçalves).
+
+ [Os significados da permanência no campo: vozes da juventude rural organizada](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/livro_dimensoes_miolo_cap02.pdf){:target="_blank"}. 2013. In: Silva and Botelho, ed., [Dimensões da experiência juvenil brasileira e novos desafios às políticas públicas](https://repositorio.ipea.gov.br/bitstream/11058/6270/1/Dimensões%20da%20experiência%20juvenil%20brasileira%20e%20novos%20desafios%20às%20políticas%20públicas.pdf){:target="_blank"}. Brasília: IPEA. (with IPEA team).
 
