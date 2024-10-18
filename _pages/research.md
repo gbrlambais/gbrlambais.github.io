@@ -69,7 +69,7 @@ In: J.E.R. Vieira Filho and J.G. Gasques, ed., [Agricultura, transformação pro
 
 #### Policy work
 
-[Decent Work Guided by Data, Smartlab Observatories](https://smartlabbr.org){:target="_blank"}. (Safety and health, child labor, human trafficking and slave labor, diversity and equal opportunity). (with Federal Labor Prosecution Office of Brazil and ILO).
+[Decent Work Smartlab Observatories](https://smartlabbr.org){:target="_blank"}. (Safety and health, child labor, human trafficking and slave labor, diversity and equal opportunity). (with Federal Labor Prosecution Office of Brazil and ILO).
 
 [Development without Deforestation](https://ipcig.org/pub/eng/PiF29_10_years_Development_without_Deforestation.pdf){:target="_blank"}. 2014. *Policy in Focus*. UNDP/International Policy Centre for Inclusive Growth. (Specialist Guest Editor with Carlos Castro). [Also in Portuguese](https://ipcig.org/pub/port/PiF29PT_10_anos_Desenvolvimento_sem_Desmatamento.pdf){:target="_blank"}.
 
