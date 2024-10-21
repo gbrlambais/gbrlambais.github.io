@@ -3,10 +3,6 @@ layout: page
 title: Research
 ---
 
-#### Job Market Paper
-
-
-
 #### Publications 
 
 [Judicial subversion: The effects of political power on court outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). 
