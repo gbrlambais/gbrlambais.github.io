@@ -17,18 +17,41 @@ Prices, wages, and real wages for Bahia and Rio de Janeiro (1572–1920) coming 
 Prices, wages, and real wages for Pernambuco, São Paulo, Rio Grande do Sul, and Minas Gerais coming soon.
 </div>
 
+Publications  <button class="collapsible" id="pub"></button>
+
+<div class="content" id="pubdata" markdown="1">
+[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. CEPR working paper. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [New version coming soon]
+</div>
+
+
 Research Team  <button class="collapsible" id="rt"></button>
 
 <div class="content" id="rtdata" markdown="1">
-INVESTIGATORS
+RESEARCH TEAM
 
 Guilherme Lambais (Lusíada University of Lisbon)
+
 Nuno Palma (University of Manchester)
 
 RESEARCH ASSISTANTS
 
-Urano Andrade
-Hélder Carvalhal
 João Fialho
+
+Urano Andrade
+
+Vinicius Alves
+
+Camila Amaral
+
+Hélder Carvalhal
+
+Wildson Félix
+
 André Lanza
+
+Gustavo Acioli Lopes
+
+Juliane Monteiro
+
+Maria Ferraz Santos
 </div>
