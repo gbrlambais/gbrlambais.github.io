@@ -5,11 +5,7 @@ title: Research
 
 #### Job Market Paper
 
-[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [Latest version: 15 December 2023] <button class="collapsible" id="as"></button>
 
-<div class="content" id="asdata" markdown="1">
-More enslaved Africans were disembarked in Brazil than in any other country in the New World. Using new archival data (over 12,000 observations), we analyze the consequences of the slave trade. We establish the first real wages and inequality series for more than three centuries (1574 to 1920) in Brazil, and find that these were initially on a similar level to Europe, but as the slave trade increased, wages decreased and inequality increased. Real wages for unskilled workers became among the lowest in the world, and only recovered with the end of the slave trade. We use slave trade prohibition shocks (1808, 1831, and 1850) to estimate the causal effect of ending slave imports on wages and inequality. The first prohibition led to an average increase of 24% in unskilled wages and a decrease of 25% in wage inequality, while later prohibitions led to even larger wage increases. We propose a mechanism suggesting that the slave trade affected long-run development through a labor market supply channel.
-</div>
 
 #### Publications 
 
@@ -28,10 +24,16 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-[Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"} (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). [Latest version: July 2024] <button class="collapsible" id="gold"></button>
+[Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"} (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). Submitted. [Latest version: July 2024] <button class="collapsible" id="gold"></button>
 
 <div class="content" id="golddata" markdown="1">
 We show that historical pathways from Brazil's gold rush era still impact today's population distribution. We find that these pathways generated road towns that shaped the initial urban configuration and population settlement in Brazil, contributing to the distinct evolution of impacted locations. We identify a causal relationship between the pathways and various demographic indicators, including population density, population growth via in-migration, urbanization, and structural change over time. The findings reveal patterns more consistent with path dependence rather than historical persistence. The empirical quantification of an economic geography model using our estimated agglomeration spillovers implies that the forces driving population dynamics have a path-dependent nature.
+</div>
+
+[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [New version coming soon] <button class="collapsible" id="as"></button>
+
+<div class="content" id="asdata" markdown="1">
+More enslaved Africans were disembarked in Brazil than in any other country in the New World. Using new archival data (over 12,000 observations), we analyze the consequences of the slave trade. We establish the first real wages and inequality series for more than three centuries (1574 to 1920) in Brazil, and find that these were initially on a similar level to Europe, but as the slave trade increased, wages decreased and inequality increased. Real wages for unskilled workers became among the lowest in the world, and only recovered with the end of the slave trade. We use slave trade prohibition shocks (1808, 1831, and 1850) to estimate the causal effect of ending slave imports on wages and inequality. The first prohibition led to an average increase of 24% in unskilled wages and a decrease of 25% in wage inequality, while later prohibitions led to even larger wage increases. We propose a mechanism suggesting that the slave trade affected long-run development through a labor market supply channel.
 </div>
 
 [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"}. [New version coming soon] <button class="collapsible" id="sr"></button>

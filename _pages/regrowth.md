@@ -9,7 +9,7 @@ The aim of the project is to build, for the fist time, prices, wages, real wages
 
 In this page, we will make available the data files (as soon as the papers are published) and other useful information built by the project.
 
-Prices and Wages Data Files  <button class="collapsible" id="pw"></button>
+**Prices and Wages Data Files**  <button class="collapsible" id="pw"></button>
 
 <div class="content" id="pwdata" markdown="1">
 Prices, wages, and real wages for Bahia and Rio de Janeiro (1572–1920) coming soon. Part of the paper "African Slavery and the Reckoning of Brazil" (Lambais and Palma).
@@ -17,14 +17,14 @@ Prices, wages, and real wages for Bahia and Rio de Janeiro (1572–1920) coming 
 Prices, wages, and real wages for Pernambuco, São Paulo, Rio Grande do Sul, and Minas Gerais coming soon.
 </div>
 
-Publications  <button class="collapsible" id="pub"></button>
+**Publications**  <button class="collapsible" id="pub"></button>
 
 <div class="content" id="pubdata" markdown="1">
 [African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. CEPR working paper. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [New version coming soon]
 </div>
 
 
-Research Team  <button class="collapsible" id="rt"></button>
+**Research Team**  <button class="collapsible" id="rt"></button>
 
 <div class="content" id="rtdata" markdown="1">
 RESEARCH TEAM
@@ -55,3 +55,4 @@ Juliane Monteiro
 
 Maria Ferraz Santos
 </div>
+
