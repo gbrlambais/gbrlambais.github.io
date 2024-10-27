@@ -29,8 +29,6 @@ GDP and GDP per capita for Brazil (1550–1920) coming soon.
 **Research Team**  <button class="collapsible" id="rt"></button>
 
 <div class="content" id="rtdata" markdown="1">
-RESEARCH TEAM
-
 Guilherme Lambais (Lusíada University of Lisbon)
 
 Nuno Palma (University of Manchester)
