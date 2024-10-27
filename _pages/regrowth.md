@@ -16,7 +16,7 @@ Prices, wages, and real wages for Bahia and Rio de Janeiro (1572–1920) coming 
 
 Prices, wages, and real wages for Pernambuco, São Paulo, Rio Grande do Sul, and Minas Gerais coming soon.
 
-GDP and GDP per capita for Brazil (1550–1920) coming soon.
+GDP and GDP per capita for Brazil (1570–1920) coming soon.
 </div>
 
 **Publications**  <button class="collapsible" id="pub"></button>
