@@ -9,12 +9,14 @@ The aim of the project is to build, for the fist time, prices, wages, real wages
 
 In this page, we will make available the data files (as soon as the papers are published) and other useful information built by the project.
 
-**Prices and Wages Data Files**  <button class="collapsible" id="pw"></button>
+**Prices, Wages, and GDP Data Files**  <button class="collapsible" id="pw"></button>
 
 <div class="content" id="pwdata" markdown="1">
 Prices, wages, and real wages for Bahia and Rio de Janeiro (1572–1920) coming soon. Part of the paper "African Slavery and the Reckoning of Brazil" (Lambais and Palma).
 
 Prices, wages, and real wages for Pernambuco, São Paulo, Rio Grande do Sul, and Minas Gerais coming soon.
+
+GDP and GDP per capita for Brazil (1550–1920) coming soon.
 </div>
 
 **Publications**  <button class="collapsible" id="pub"></button>
@@ -45,7 +47,11 @@ Camila Amaral
 
 Hélder Carvalhal
 
+Eduardo Cavalcante
+
 Wildson Félix
+
+Luísa Cristina Fernandes
 
 André Lanza
 
