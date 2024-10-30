@@ -22,7 +22,9 @@ GDP and GDP per capita for Brazil (1570–1920) coming soon.
 **Publications**  <button class="collapsible" id="pub"></button>
 
 <div class="content" id="pubdata" markdown="1">
-[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. CEPR working paper. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [New version coming soon]
+[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. CEPR discussion paper. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [new version coming soon]
+
+How a Nation is Born: Reconstructing Four Centuries of Brazilian Economic Growth. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [work in progress]
 </div>
 
 
