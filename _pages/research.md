@@ -20,9 +20,11 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-Maroon Communities: Cultural Transmission and Local Development in Brazil. [[presentation](https://gbrlambais.github.io/maroons.pdf){:target="_blank"} at the Brazilian Econometric Society, Special Session on Institutions and Cultural Evolution, Natal 2024]
+Maroon Communities: Cultural Transmission and Local Development in Brazil. [[presentation](https://gbrlambais.github.io/maroons.pdf){:target="_blank"} at the Brazilian Econometric Society, Special Session on Institutions and Cultural Evolution, Natal 2024] <button class="collapsible" id="maroons"></button>
 
+<div class="content" id="maroonsdata" markdown="1">
 (Subsumes earlier paper: [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"})
+</div>
 
 [Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"} (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). Submitted. [latest version: July 2024] <button class="collapsible" id="gold"></button>
 
