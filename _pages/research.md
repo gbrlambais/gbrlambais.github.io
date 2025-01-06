@@ -20,6 +20,10 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
+Maroon Communities: Cultural Transmission and Local Development in Brazil. [[presentation](https://gbrlambais.github.io/maroons.pdf){:target="_blank"} at the Brazilian Econometric Society, Special Session on Institutions and Cultural Evolution, Natal 2024]
+
+(Subsumes earlier paper: [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"})
+
 [Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"} (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). Submitted. [latest version: July 2024] <button class="collapsible" id="gold"></button>
 
 <div class="content" id="golddata" markdown="1">
@@ -30,12 +34,6 @@ We show that historical pathways from Brazil's gold rush era still impact today'
 
 <div class="content" id="asdata" markdown="1">
 More enslaved Africans were disembarked in Brazil than in any other country in the New World. Using new archival data (over 12,000 observations), we analyze the consequences of the slave trade. We establish the first real wages and inequality series for more than three centuries (1574 to 1920) in Brazil, and find that these were initially on a similar level to Europe, but as the slave trade increased, wages decreased and inequality increased. Real wages for unskilled workers became among the lowest in the world, and only recovered with the end of the slave trade. We use slave trade prohibition shocks (1808, 1831, and 1850) to estimate the causal effect of ending slave imports on wages and inequality. The first prohibition led to an average increase of 24% in unskilled wages and a decrease of 25% in wage inequality, while later prohibitions led to even larger wage increases. We propose a mechanism suggesting that the slave trade affected long-run development through a labor market supply channel.
-</div>
-
-[Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"}. [new version coming soon] <button class="collapsible" id="sr"></button>
-
-<div class="content" id="srdata" markdown="1">
-I show that ethnic territories connected to slave resistance, called quilombos, have a robust positive relationship with local economic development in Brazil. Based on the history of the quilombos, I propose a mechanism where initial religious beliefs and African iron-working and other high-valued skills are perpetuated in the long run through cultural-religious intergenerational transmission. First, I divide the Brazilian territory in virtual municipality cells of approximately 11 x 11 kilometers, which makes possible an extensive use of fixed effects, and show that cells with more quilombos have more economic activity proxied by nightlights. Second, I employ a randomization inference approach with alternative spatial configurations of counterfactual quilombos. I then show that proximity to quilombos is related to more high-skilled and metal-related occupations and a wide array of cultural-religious outcomes, such as higher cultural activities, community trust, and collective action.
 </div>
 
 [Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.07601){:target="_blank"}. (with Joaquim Andrade and Pedro Cordeiro). [latest version: December 2019] <button class="collapsible" id="brnk"></button>
