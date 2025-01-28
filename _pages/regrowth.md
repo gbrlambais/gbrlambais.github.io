@@ -3,7 +3,7 @@ layout: page
 title: REGROWTH
 ---
 
-The project "How a Nation is Born: Reconstructing Four Centuries of Brazilian Economic Growth" (REGROWTH) began in 2022 with a [Marie Skłodowska-Curie Actions grant](https://cordis.europa.eu/project/id/101031282){:target="_blank"} from the European Comission for two years at ICS, University of Lisbon. Currently the project is ongoing at the Center for Research in Economics and Comparative Development at the Lusíada University of Lisbon.
+The project "How a Nation is Born: Reconstructing Four Centuries of Brazilian Economic Growth" (REGROWTH) began in 2022 with a [Marie Skłodowska-Curie Actions Individual Fellowship grant](https://cordis.europa.eu/project/id/101031282){:target="_blank"} from the European Comission for two years at ICS, University of Lisbon. The project is currently ongoing at the Center for Research in Economics and Comparative Development at the Lusíada University of Lisbon.
 
 The objective of the project is to build, for the fist time, prices, wages, real wages, GDP, and GDP per capita series for Brazil covering the period from first settlement in the 16th century to the year of the first income census in 1920. Initially, we will focus on the main cities of the colonial period, such as Salvador da Bahia, Rio de Janeiro, Recife and Olinda, São Paulo, Porto Alegre and Rio Grande, and Ouro Preto and São João del Rei.
 
