@@ -20,6 +20,12 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
+[Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"} (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). Submitted. [latest version: January 2025] <button class="collapsible" id="gold"></button>
+
+<div class="content" id="golddata" markdown="1">
+Following the discovery of gold in 1694 in Brazil, pathways were constructed to connect coastal settlements to mining regions in the unpopulated interior. While these pathways ini- tially facilitated the creation of road towns, their influence faded by the late nineteenth century. With the mid-twentieth-century demographic and industrial transition, regions with higher his- torical road density experienced renewed population growth and greater migrant inflows. We argue that this resurgence reflects the role of road towns in fostering early urbanization and structural transformation. Using an extended Rosen-Roback-Glaeser framework, we estimate strong agglomeration spillovers, suggesting that Brazil’s spatial economy exhibits multiple steady states and historical path dependence.
+</div>
+
 Maroon Communities: Cultural Transmission and Local Development in Brazil. 
 [[presentation](https://gbrlambais.github.io/maroons.pdf){:target="_blank"} 
 at the Brazilian Econometric Society, invited special session 
@@ -28,12 +34,6 @@ and Cultural Evolution, Natal 2024] <button class="collapsible" id="maroons"></b
 
 <div class="content" id="maroonsdata" markdown="1">
 (Subsumes earlier paper: [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"})
-</div>
-
-[Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"} (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). Submitted. [latest version: January 2025] <button class="collapsible" id="gold"></button>
-
-<div class="content" id="golddata" markdown="1">
-Following the discovery of gold in 1694 in Brazil, pathways were constructed to connect coastal settlements to mining regions in the unpopulated interior. While these pathways ini- tially facilitated the creation of road towns, their influence faded by the late nineteenth century. With the mid-twentieth-century demographic and industrial transition, regions with higher his- torical road density experienced renewed population growth and greater migrant inflows. We argue that this resurgence reflects the role of road towns in fostering early urbanization and structural transformation. Using an extended Rosen-Roback-Glaeser framework, we estimate strong agglomeration spillovers, suggesting that Brazil’s spatial economy exhibits multiple steady states and historical path dependence.
 </div>
 
 [African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/lambaisJMP.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [new version coming soon] [[CEPR](https://cepr.org/publications/dp18716){:target="_blank"}] [[Lewis Lab](https://documents.manchester.ac.uk/display.aspx?DocID=71436){:target="_blank"}] <button class="collapsible" id="as"></button>
