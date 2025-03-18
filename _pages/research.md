@@ -20,7 +20,14 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-[Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"} (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). Submitted. [latest version: January 2025] <button class="collapsible" id="gold"></button>
+[Persuading judges or voters? The role of lawsuits in elections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5183038){:target="_blank"}. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). Submitted. [latest version: March 2025] <button class="collapsible" id="elections"></button>
+
+<div class="content" id="electionsdata" markdown="1">
+What role do lawsuits play in elections? We document that 30 percent of Brazilian mayoral candidates are involved in election-related lawsuits and that they spend 11 percent of their campaign funds on lawyers. Candidates filing lawsuits rarely succeed in disqualifying opponents or annulling elections. Instead, the true motivation might be to influence voters: Most lawsuits are filed right before the election, and candidates feature the lawsuits in their media campaigns. Motivated by these findings, we estimate the causal effect of lawsuits on polling data and can rule out large effects on voters.
+</div>
+
+
+[Old But Gold: Historical Pathways and Path Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384){:target="_blank"}. (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). Submitted. [latest version: January 2025] <button class="collapsible" id="gold"></button>
 
 <div class="content" id="golddata" markdown="1">
 Following the discovery of gold in 1694 in Brazil, pathways were constructed to connect coastal settlements to mining regions in the unpopulated interior. While these pathways initially facilitated the creation of road towns, their influence faded by the late nineteenth century. With the mid-twentieth-century demographic and industrial transition, regions with higher historical road density experienced renewed population growth and greater migrant inflows. We argue that this resurgence reflects the role of road towns in fostering early urbanization and structural transformation. Using an extended Rosen-Roback-Glaeser framework, we estimate strong agglomeration spillovers, suggesting that Brazil’s spatial economy exhibits multiple steady states and historical path dependence.
@@ -52,9 +59,6 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 *Les Agoudas*: Pre-colonial business networks and intergenerational mobility of liberated returnees. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}).
 
 Corruption and Impunity. (with Ricardo Prioste and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
-
-
-[//]: # Judicialization of Politics: Evidence from Brazilian local elections. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
 
 [//]: # Judicial Connections. (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/){:target="_blank"}, [Breno Sampaio](https://sites.google.com/view/brenosampaio/){:target="_blank"}, [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}, and [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/home){:target="_blank"}).
 
