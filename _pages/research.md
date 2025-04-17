@@ -34,7 +34,7 @@ Following the discovery of gold in 1694 in Brazil, pathways were constructed to 
 </div>
 
 Maroon Communities: Cultural Transmission and Local Development in Brazil. 
-[[presentation](https://gbrlambais.github.io/maroons.pdf){:target="_blank"} 
+[[presentation](https://gbrlambais.github.io/maroons_sbe.pdf){:target="_blank"} 
 at the Brazilian Econometric Society, invited special session 
 "Institutions and Cultural Evolution," Natal 2024] <button class="collapsible" id="maroons"></button>
 
