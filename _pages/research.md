@@ -62,6 +62,8 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 
 [//]: # Judicial Connections. (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/){:target="_blank"}, [Breno Sampaio](https://sites.google.com/view/brenosampaio/){:target="_blank"}, [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}, and [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/home){:target="_blank"}).
 
+Wage Inequality in Brazil, 1574–1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
+
 How a Nation is Born: Reconstructing Four Centuries of Brazilian Economic Growth. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
 
 Geography, slavery, and income: A spatial equilibrium approach. (with Eustáquio Reis). [[version presented](https://gbrlambais.github.io/income1870_ridge.pdf){:target="_blank"} at the RIDGE Economic History Workshop, Montevideo 2019]
