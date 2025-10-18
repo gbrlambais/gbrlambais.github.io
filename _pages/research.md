@@ -20,7 +20,7 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/reckoning.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [latest version: October 2025] [[CEPR](https://cepr.org/publications/dp18716){:target="_blank"}] [[Lewis Lab](https://documents.manchester.ac.uk/display.aspx?DocID=71436){:target="_blank"}] <button class="collapsible" id="as"></button>
+[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/reckoning.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). Submitted. [latest version: October 2025] [[CEPR](https://cepr.org/publications/dp18716){:target="_blank"}] [[Lewis Lab](https://documents.manchester.ac.uk/display.aspx?DocID=71436){:target="_blank"}] <button class="collapsible" id="as"></button>
 
 <div class="content" id="asdata" markdown="1">
 More enslaved Africans disembarked in Brazil than in any other country in the New World. Using new archival data, we build real wage and slave price series for Brazil covering 1574–1920. Wages initially matched those in Europe but fell as the slave trade expanded, only recovering when the trade ended and slave prices rose. We develop a directed technical change model with slave tasks to explain this finding. We also estimate a large, positive causal effect of slave trade prohibition on wages, consistent with our model. Post-prohibition, there was technological change towards free labor and concentration of slave labor in
