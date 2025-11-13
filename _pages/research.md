@@ -20,6 +20,14 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
+[Cultural Heterogeneity, Intergenerational Transmission, and Local Development: Evidence from Quilombos in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733703){:target="_blank"}[latest version: November 2025]<button class="collapsible" id="maroons"></button>
+
+<div class="content" id="maroonsdata" markdown="1">
+I investigate the effects of cultural heterogeneity on local development using quilombos––communities of descendants of fugitive and liberated slaves––in Brazil. Using geo-coded data on all quilombos, I construct a "Quilombo Access" measure and exploit variation in paved road construction to build a formulabased instrument. Increased access systematically raises productivity in ancestrybased skills, education, and political participation for the black population, closing the black-non-black gap in these outcomes and reversing it to a black premium for blacksmiths and metalworkers. Quilombos function as organizations with vertical and oblique cultural transmission of traits through homogamous families, apprenticeship, and cultural-religious initiatives, groups, and policies, while providing amenities to increase black population density. I provide the first quantitative evidence that quilombo cultural traits, sustained through a cultural-heterogeneity equilibrium with organizational infrastructure, generate economic advantages for the black population, which also suggests the local coevolution of culture and institutions.
+
+(Subsumes earlier paper: [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"})
+</div>
+
 [African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/reckoning.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). Submitted. [latest version: October 2025] [[CEPR](https://cepr.org/publications/dp18716){:target="_blank"}] [[Lewis Lab](https://documents.manchester.ac.uk/display.aspx?DocID=71436){:target="_blank"}] <button class="collapsible" id="as"></button>
 
 <div class="content" id="asdata" markdown="1">
@@ -37,15 +45,6 @@ What role do lawsuits play in elections? We document that 30 percent of Brazilia
 
 <div class="content" id="golddata" markdown="1">
 Following the discovery of gold in 1694 in Brazil, pathways were constructed to connect coastal settlements to mining regions in the unpopulated interior. While these pathways initially facilitated the creation of road towns, their influence faded by the late nineteenth century. With the mid-twentieth-century demographic and industrial transition, regions with higher historical road density experienced renewed population growth and greater migrant inflows. We argue that this resurgence reflects the role of road towns in fostering early urbanization and structural transformation. Using an extended Rosen-Roback-Glaeser framework, we estimate strong agglomeration spillovers, suggesting that Brazil’s spatial economy exhibits multiple steady states and historical path dependence.
-</div>
-
-Maroon Communities: Cultural Transmission and Local Development in Brazil. 
-[[presentation](https://gbrlambais.github.io/maroons_sbe.pdf){:target="_blank"} 
-at the Brazilian Econometric Society, invited special session 
-"Institutions and Cultural Evolution," Natal 2024] <button class="collapsible" id="maroons"></button>
-
-<div class="content" id="maroonsdata" markdown="1">
-(Subsumes earlier paper: [Slave resistance, cultural transmission, and Brazil’s long-run economic development](https://gbrlambais.github.io/resistance_longrun.pdf){:target="_blank"})
 </div>
 
 [Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.07601){:target="_blank"}. (with Joaquim Andrade and Pedro Cordeiro). [latest version: December 2019] <button class="collapsible" id="brnk"></button>
