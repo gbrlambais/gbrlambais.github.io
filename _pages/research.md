@@ -35,7 +35,7 @@ More enslaved Africans disembarked in Brazil than in any other country in the Ne
 high-disamenity occupations.
 </div>
 
-[Persuading judges or voters? The role of lawsuits in elections](https://dx.doi.org/10.2139/ssrn.5183038){:target="_blank"}. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). Submitted. [latest version: March 2025] <button class="collapsible" id="elections"></button>
+[Persuading judges or voters? The role of lawsuits in elections](https://dx.doi.org/10.2139/ssrn.5183038){:target="_blank"}. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). [New version coming soon] <button class="collapsible" id="elections"></button>
 
 <div class="content" id="electionsdata" markdown="1">
 What role do lawsuits play in elections? We document that 30 percent of Brazilian mayoral candidates are involved in election-related lawsuits and that they spend 11 percent of their campaign funds on lawyers. Candidates filing lawsuits rarely succeed in disqualifying opponents or annulling elections. Instead, the true motivation might be to influence voters: Most lawsuits are filed right before the election, and candidates feature the lawsuits in their media campaigns. Motivated by these findings, we estimate the causal effect of lawsuits on polling data and can rule out large effects on voters.
