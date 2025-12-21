@@ -63,7 +63,7 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 
 Wage Inequality in Brazil, 1574–1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
 
-How a Nation is Born: Reconstructing Four Centuries of Brazilian Economic Growth. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
+How a Nation was Born: Four Centuries of Brazilian Economic Growth in Comparative Perspective. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
 
 Geography, slavery, and income: A spatial equilibrium approach. (with Eustáquio Reis). [[version presented](https://gbrlambais.github.io/income1870_ridge.pdf){:target="_blank"} at the RIDGE Economic History Workshop, Montevideo 2019]
 
