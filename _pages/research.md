@@ -20,7 +20,7 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-[Cultural Heterogeneity, Intergenerational Transmission, and Local Development: Evidence from Quilombos in Brazil](https://dx.doi.org/10.2139/ssrn.5733703){:target="_blank"}. [latest version: January 2026]<button class="collapsible" id="maroons"></button>
+[Cultural Heterogeneity, Intergenerational Transmission, and Local Development: Evidence from Quilombos in Brazil](https://dx.doi.org/10.2139/ssrn.5733703){:target="_blank"}. Submitted. [latest version: January 2026] <button class="collapsible" id="maroons"></button>
 
 <div class="content" id="maroonsdata" markdown="1">
 I investigate the effects of cultural heterogeneity on local development using *quilombos*—communities of descendants of fugitive and liberated slaves—in Brazil. Using geo-coded data on all quilombos, I construct a "Quilombo Access" measure and exploit variation in paved road construction to build a formulabased instrument. Increased access systematically raises productivity in ancestry-based skills, education, and political participation for the black population, closing the black-non-black gap in these outcomes and reversing it to a black premium for blacksmiths and metalworkers. Quilombos function as organizations with vertical and oblique cultural transmission of traits through homogamous families, apprenticeship, and ethnic-religious initiatives, groups, and policies, while providing amenities to increase black population density. I provide the first quantitative evidence that quilombo traits, sustained through a cultural-heterogeneity equilibrium with organizational infrastructure, generate economic advantages for the black population, which also suggests the local coevolution of culture and institutions.
@@ -55,15 +55,15 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 
 #### Work in progress
 
-*Les Agoudas*: Pre-colonial business networks and intergenerational mobility of liberated returnees. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}).
+*Les Agoudas*: Pre-colonial business networks and intergenerational mobility of liberated returnees. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}). [Working paper coming soon]
 
 [//]: # Corruption and Impunity. (with Ricardo Prioste and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
 
 [//]: # Judicial Connections. (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/){:target="_blank"}, [Breno Sampaio](https://sites.google.com/view/brenosampaio/){:target="_blank"}, [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}, and [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/home){:target="_blank"}).
 
-Wage Inequality in Brazil, 1574–1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
+How a Nation was Born: Four Centuries of Brazilian Economic Growth in Comparative Perspective. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [Working paper coming soon]
 
-How a Nation was Born: Four Centuries of Brazilian Economic Growth in Comparative Perspective. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
+Wage Inequality in Brazil, 1574–1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
 
 Geography, slavery, and income: A spatial equilibrium approach. (with Eustáquio Reis). [[version presented](https://gbrlambais.github.io/income1870_ridge.pdf){:target="_blank"} at the RIDGE Economic History Workshop, Montevideo 2019]
 
