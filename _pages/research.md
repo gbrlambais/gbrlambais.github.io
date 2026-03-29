@@ -20,6 +20,11 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
+[How a nation was born: Brazilian economic growth, 1574–1920](https://documents.manchester.ac.uk/display.aspx?DocID=78921){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [latest version: March 2026] <button class="collapsible" id="regrowth"></button>
+
+<div class="content" id="regrowthdata" markdown="1">
+We construct the first long-run series of GDP per capita for Brazil, covering the period from 1574 to 1920. We build a new, hand-collected dataset including over 30,000 observations for prices and wages covering most major regions of Brazil: Bahia, Rio de Janeiro, Pernambuco, São Paulo, and Rio Grande do Sul. Our estimates imply an average per-capita growth rate of approximately zero during the colonial era (1574–1821), 0.69% per year during the imperial era (1822–1888), and 1.02% per year during the Early Republic. The latter estimates lie below the “pro-growth” view of late-nineteenth-century Brazil but above the traditional narrative of complete stagnation.
+
 [Cultural Heterogeneity, Intergenerational Transmission, and Local Development: Evidence from Quilombos in Brazil](https://dx.doi.org/10.2139/ssrn.5733703){:target="_blank"}. Submitted. [latest version: January 2026] <button class="collapsible" id="maroons"></button>
 
 <div class="content" id="maroonsdata" markdown="1">
@@ -35,7 +40,7 @@ More enslaved Africans disembarked in Brazil than in any other country in the Ne
 high-disamenity occupations.
 </div>
 
-[Persuading judges or voters? The role of lawsuits in elections](https://dx.doi.org/10.2139/ssrn.5183038){:target="_blank"}. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). [New version coming soon] <button class="collapsible" id="elections"></button>
+[Persuading judges or voters? The role of lawsuits in elections](https://dx.doi.org/10.2139/ssrn.5183038){:target="_blank"}. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). [new version coming soon] <button class="collapsible" id="elections"></button>
 
 <div class="content" id="electionsdata" markdown="1">
 What role do lawsuits play in elections? We document that 30 percent of Brazilian mayoral candidates are involved in election-related lawsuits and that they spend 11 percent of their campaign funds on lawyers. Candidates filing lawsuits rarely succeed in disqualifying opponents or annulling elections. Instead, the true motivation might be to influence voters: Most lawsuits are filed right before the election, and candidates feature the lawsuits in their media campaigns. Motivated by these findings, we estimate the causal effect of lawsuits on polling data and can rule out large effects on voters.
@@ -55,13 +60,12 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 
 #### Work in progress
 
-*Les Agoudas*: Pre-colonial business networks and intergenerational mobility of liberated returnees. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}). [Working paper coming soon]
+*Les Agoudas*: Pre-colonial business networks and intergenerational mobility of liberated returnees. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}). [working paper coming soon]
 
 [//]: # Corruption and Impunity. (with Ricardo Prioste and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
 
 [//]: # Judicial Connections. (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/){:target="_blank"}, [Breno Sampaio](https://sites.google.com/view/brenosampaio/){:target="_blank"}, [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}, and [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/home){:target="_blank"}).
 
-How a Nation was Born: Four Centuries of Brazilian Economic Growth in Comparative Perspective. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [Working paper coming soon]
 
 Wage Inequality in Brazil, 1574–1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
 

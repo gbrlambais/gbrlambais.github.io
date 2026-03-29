@@ -24,7 +24,7 @@ GDP and GDP per capita for Brazil (1570–1920) coming soon.
 <div class="content" id="pubdata" markdown="1">
 [African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/reckoning.pdf){:target="_blank"}. CEPR discussion paper. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
 
-How a Nation is Born: Reconstructing Four Centuries of Brazilian Economic Growth. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [work in progress]
+[How a nation was born: Brazilian economic growth, 1574–1920](https://documents.manchester.ac.uk/display.aspx?DocID=78921){:target="_blank"}. Lewis Lab working paper. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
 
 Wage Inequality in Brazil, 1574–1920.(with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [work in progress]
 </div>
@@ -37,6 +37,8 @@ Guilherme Lambais (Lusíada University of Lisbon)
 Nuno Palma (University of Manchester)
 
 RESEARCH ASSISTANTS
+
+Pedro Lopes
 
 João Fialho
 
