@@ -24,6 +24,7 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 <div class="content" id="regrowthdata" markdown="1">
 We construct the first long-run series of GDP per capita for Brazil, covering the period from 1574 to 1920. We build a new, hand-collected dataset including over 30,000 observations for prices and wages covering most major regions of Brazil: Bahia, Rio de Janeiro, Pernambuco, São Paulo, and Rio Grande do Sul. Our estimates imply an average per-capita growth rate of approximately zero during the colonial era (1574–1821), 0.69% per year during the imperial era (1822–1888), and 1.02% per year during the Early Republic. The latter estimates lie below the “pro-growth” view of late-nineteenth-century Brazil but above the traditional narrative of complete stagnation.
+</div>
 
 [Cultural Heterogeneity, Intergenerational Transmission, and Local Development: Evidence from Quilombos in Brazil](https://dx.doi.org/10.2139/ssrn.5733703){:target="_blank"}. Submitted. [latest version: January 2026] <button class="collapsible" id="maroons"></button>
 
