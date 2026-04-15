@@ -20,7 +20,7 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-[How a nation was born: Brazilian economic growth, 1574–1920](https://documents.manchester.ac.uk/display.aspx?DocID=78921){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [latest version: March 2026] <button class="collapsible" id="regrowth"></button>
+[How a nation was born: Brazilian economic growth, 1574–1920](https://documents.manchester.ac.uk/display.aspx?DocID=78921){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). Submitted. [latest version: March 2026] <button class="collapsible" id="regrowth"></button>
 
 <div class="content" id="regrowthdata" markdown="1">
 We construct the first long-run series of GDP per capita for Brazil, covering the period from 1574 to 1920. We build a new, hand-collected dataset including over 30,000 observations for prices and wages covering most major regions of Brazil: Bahia, Rio de Janeiro, Pernambuco, São Paulo, and Rio Grande do Sul. Our estimates imply an average per-capita growth rate of approximately zero during the colonial era (1574–1821), 0.69% per year during the imperial era (1822–1888), and 1.02% per year during the Early Republic. The latter estimates lie below the “pro-growth” view of late-nineteenth-century Brazil but above the traditional narrative of complete stagnation.
