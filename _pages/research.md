@@ -3,7 +3,13 @@ layout: page
 title: Research
 ---
 
-#### Publications 
+#### Publications
+
+[Old But Gold: Historical Pathways and Path Dependence](https://dx.doi.org/10.2139/ssrn.4513384){:target="_blank"}. (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). **Journal of Urban Economics**, Forthcoming. <button class="collapsible" id="gold"></button>
+
+<div class="content" id="golddata" markdown="1">
+Following the discovery of gold in 1694 in Brazil, pathways were constructed to connect coastal settlements to mining regions in the unpopulated interior. While these pathways initially facilitated the creation of road towns, their influence faded by the late nineteenth century. With the mid-twentieth-century demographic and industrial transition, regions with higher historical road density experienced renewed population growth and greater migrant inflows. We argue that this resurgence reflects the role of road towns in fostering early urbanization and structural transformation. Using an extended Rosen-Roback-Glaeser framework, we estimate strong agglomeration spillovers, suggesting that Brazil’s spatial economy exhibits multiple steady states and historical path dependence.
+</div>
 
 [Judicial subversion: The effects of political power on court outcomes](https://www.sciencedirect.com/science/article/pii/S0047272722001906){:target="_blank"}. **Journal of Public Economics**, 217 (2023). (with [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). 
 <button class="collapsible" id="subversion"></button>
@@ -20,7 +26,13 @@ We review research on the history of education policy in colonial sub-Saharan Af
 
 #### Working papers
 
-[How a nation was born: Brazilian economic growth, 1574–1920](https://documents.manchester.ac.uk/display.aspx?DocID=78921){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). Submitted. [latest version: March 2026] <button class="collapsible" id="regrowth"></button>
+[Electoral Litigation in Political Campaigns](https://dx.doi.org/10.2139/ssrn.5183038){:target="_blank"}. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). Submitted. [latest version: April 2026] <button class="collapsible" id="elections"></button>
+
+<div class="content" id="electionsdata" markdown="1">
+What role do lawsuits play in elections? We assemble a new dataset covering over 27,000 electoral lawsuits matched to detailed information on more than 19,000 mayoral candidates in Brazil. 30 percent of mayoral candidates are involved in election-related lawsuits, and they spend 11 percent of their campaign funds on lawyers. Candidates filing lawsuits rarely succeed in disqualifying opponents or annulling elections. Instead, the true motivation might be to influence voters: Most lawsuits target runner-ups, are filed right before the election, are judicially weak, and are featured in media campaigns. Using polling data and exact filing dates, we find minimal average effects of lawsuits on vote intentions and can rule out large adverse effects on defendants. The results suggest that electoral litigation is often used strategically in campaigns even when its average electoral effects are limited.
+</div>
+
+[How a nation was born: Brazilian economic growth, 1574–1920](https://documents.manchester.ac.uk/display.aspx?DocID=78921){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). Submitted. [latest version: March 2026] [media coverage in Folha de São Paulo](https://www1.folha.uol.com.br/mercado/2026/03/escravidao-explica-pib-per-capita-persistentemente-baixo-na-historia-do-brasil-aponta-estudo.shtml){:target="_blank"} <button class="collapsible" id="regrowth"></button>
 
 <div class="content" id="regrowthdata" markdown="1">
 We construct the first long-run series of GDP per capita for Brazil, covering the period from 1574 to 1920. We build a new, hand-collected dataset including over 30,000 observations for prices and wages covering most major regions of Brazil: Bahia, Rio de Janeiro, Pernambuco, São Paulo, and Rio Grande do Sul. Our estimates imply an average per-capita growth rate of approximately zero during the colonial era (1574–1821), 0.69% per year during the imperial era (1822–1888), and 1.02% per year during the Early Republic. The latter estimates lie below the “pro-growth” view of late-nineteenth-century Brazil but above the traditional narrative of complete stagnation.
@@ -39,18 +51,6 @@ I investigate the effects of cultural heterogeneity on local development using *
 <div class="content" id="asdata" markdown="1">
 More enslaved Africans disembarked in Brazil than in any other country in the New World. Using new archival data, we build real wage and slave price series for Brazil covering 1574–1920. Wages initially matched those in Europe but fell as the slave trade expanded, only recovering when the trade ended and slave prices rose. We develop a directed technical change model with slave tasks to explain this finding. We also estimate a large, positive causal effect of slave trade prohibition on wages, consistent with our model. Post-prohibition, there was technological change towards free labor and concentration of slave labor in
 high-disamenity occupations.
-</div>
-
-[Persuading judges or voters? The role of lawsuits in elections](https://dx.doi.org/10.2139/ssrn.5183038){:target="_blank"}. (with [Moya Chin](https://sites.google.com/view/moyachin/){:target="_blank"} and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}). [new version coming soon] <button class="collapsible" id="elections"></button>
-
-<div class="content" id="electionsdata" markdown="1">
-What role do lawsuits play in elections? We document that 30 percent of Brazilian mayoral candidates are involved in election-related lawsuits and that they spend 11 percent of their campaign funds on lawyers. Candidates filing lawsuits rarely succeed in disqualifying opponents or annulling elections. Instead, the true motivation might be to influence voters: Most lawsuits are filed right before the election, and candidates feature the lawsuits in their media campaigns. Motivated by these findings, we estimate the causal effect of lawsuits on polling data and can rule out large effects on voters.
-</div>
-
-[Old But Gold: Historical Pathways and Path Dependence](https://dx.doi.org/10.2139/ssrn.4513384){:target="_blank"}. (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). *Revise & Resubmit*, **Journal of Urban Economics**. [latest version: January 2025] <button class="collapsible" id="gold"></button>
-
-<div class="content" id="golddata" markdown="1">
-Following the discovery of gold in 1694 in Brazil, pathways were constructed to connect coastal settlements to mining regions in the unpopulated interior. While these pathways initially facilitated the creation of road towns, their influence faded by the late nineteenth century. With the mid-twentieth-century demographic and industrial transition, regions with higher historical road density experienced renewed population growth and greater migrant inflows. We argue that this resurgence reflects the role of road towns in fostering early urbanization and structural transformation. Using an extended Rosen-Roback-Glaeser framework, we estimate strong agglomeration spillovers, suggesting that Brazil’s spatial economy exhibits multiple steady states and historical path dependence.
 </div>
 
 [Estimating a Behavioral New Keynesian Model](https://arxiv.org/abs/1912.07601){:target="_blank"}. (with Joaquim Andrade and Pedro Cordeiro). [latest version: December 2019] <button class="collapsible" id="brnk"></button>
