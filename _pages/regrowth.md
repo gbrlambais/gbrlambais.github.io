@@ -9,22 +9,22 @@ The objective of the project is to build, for the fist time, prices, wages, real
 
 In this page, we will make available the data files (as soon as the papers are published) and other useful information built by the project.
 
-**Prices, Wages, and GDP Data Files**  <button class="collapsible" id="pw"></button>
+[Media coverage of the project in Folha de São Paulo.](https://www1.folha.uol.com.br/mercado/2026/03/escravidao-explica-pib-per-capita-persistentemente-baixo-na-historia-do-brasil-aponta-estudo.shtml){:target="_blank"}
+
+**Prices, Wages, and GDP per capita Data Files**  <button class="collapsible" id="pw"></button>
 
 <div class="content" id="pwdata" markdown="1">
-Prices, wages, and real wages for Bahia and Rio de Janeiro (1572–1920) coming soon. Part of the paper "African Slavery and the Reckoning of Brazil" (Lambais and Palma).
+Prices, wages, and real wages for Bahia, Rio de Janeiro, Pernambuco, São Paulo, Rio Grande do Sul, and Minas Gerais (1572–1920) coming soon.
 
-Prices, wages, and real wages for Pernambuco, São Paulo, Rio Grande do Sul, and Minas Gerais coming soon.
-
-GDP and GDP per capita for Brazil (1570–1920) coming soon.
+GDP per capita for Brazil (1570–1920) coming soon.
 </div>
 
 **Publications**  <button class="collapsible" id="pub"></button>
 
 <div class="content" id="pubdata" markdown="1">
-[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/reckoning.pdf){:target="_blank"}. CEPR discussion paper. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
+[How a nation was born: Brazilian economic growth, 1574–1920](https://gbrlambais.github.io/regrowth.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). Submitted. [latest version: March 2026] [[CEPR](https://cepr.org/publications/dp21341){:target="_blank"}] [[Lewis Lab](https://documents.manchester.ac.uk/display.aspx?DocID=78921){:target="_blank"}]
 
-[How a nation was born: Brazilian economic growth, 1574–1920](https://documents.manchester.ac.uk/display.aspx?DocID=78921){:target="_blank"}. Lewis Lab working paper. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
+[African Slavery and the Reckoning of Brazil](https://gbrlambais.github.io/reckoning.pdf){:target="_blank"}. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). Submitted. [latest version: October 2025] [[CEPR](https://cepr.org/publications/dp18716){:target="_blank"}] [[Lewis Lab](https://documents.manchester.ac.uk/display.aspx?DocID=71436){:target="_blank"}]
 
 Wage Inequality in Brazil, 1574–1920.(with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}). [work in progress]
 </div>
