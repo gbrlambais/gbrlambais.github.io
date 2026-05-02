@@ -5,7 +5,7 @@ title: Research
 
 #### Publications
 
-[Old But Gold: Historical Pathways and Path Dependence](https://dx.doi.org/10.2139/ssrn.4513384){:target="_blank"}. (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). **Journal of Urban Economics**, Forthcoming. <button class="collapsible" id="gold"></button>
+[Old But Gold: Historical Pathways and Path Dependence](https://doi.org/10.1016/j.jue.2026.103863){:target="_blank"}. (with [Diogo Baerlocher](https://diogobaerlocher.github.io){:target="_blank"}, [Diego Firmino](http://www.padr.ufrpe.br/pt-br/authenticated/diego-firmino-costa-da-silva){:target="_blank"}, Eustáquio Reis, and [Henrique Veras](https://henriqueveras.github.io){:target="_blank"}). **Journal of Urban Economics**, 153 2026. <button class="collapsible" id="gold"></button>
 
 <div class="content" id="golddata" markdown="1">
 Following the discovery of gold in 1694 in Brazil, pathways were constructed to connect coastal settlements to mining regions in the unpopulated interior. While these pathways initially facilitated the creation of road towns, their influence faded by the late nineteenth century. With the mid-twentieth-century demographic and industrial transition, regions with higher historical road density experienced renewed population growth and greater migrant inflows. We argue that this resurgence reflects the role of road towns in fostering early urbanization and structural transformation. Using an extended Rosen-Roback-Glaeser framework, we estimate strong agglomeration spillovers, suggesting that Brazil’s spatial economy exhibits multiple steady states and historical path dependence.
@@ -64,12 +64,8 @@ This paper analyzes identiﬁcation issues of a behavorial New Keynesian model a
 *Les Agoudas*: Pre-colonial business networks and intergenerational mobility of liberated returnees. (with [Leonard Wantchekon](https://scholar.princeton.edu/lwantche){:target="_blank"}). [working paper coming soon]
 
 [//]: # Corruption and Impunity. (with Ricardo Prioste and [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}).
-
 [//]: # Judicial Connections. (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/){:target="_blank"}, [Breno Sampaio](https://sites.google.com/view/brenosampaio/){:target="_blank"}, [Henrik Sigstad](https://hsigstad.github.io){:target="_blank"}, and [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/home){:target="_blank"}).
-
-
-Wage Inequality in Brazil, 1574–1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
-
+[//]: #Wage Inequality in Brazil, 1574–1920. (with [Nuno Palma](https://sites.google.com/site/npgpalma){:target="_blank"}).
 Geography, slavery, and income: A spatial equilibrium approach. (with Eustáquio Reis). [[version presented](https://gbrlambais.github.io/income1870_ridge.pdf){:target="_blank"} at the RIDGE Economic History Workshop, Montevideo 2019]
 
 #### Book chapters
